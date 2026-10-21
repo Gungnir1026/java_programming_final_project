@@ -1,0 +1,5 @@
+trashcan2=4
+trashcan3=1
+trashcan1=1
+coins=3000
+trashcan4=1

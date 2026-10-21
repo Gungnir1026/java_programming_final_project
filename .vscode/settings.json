@@ -1,0 +1,8 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "files.encoding": "utf8",
+    "files.exclude": {
+        "**/.build-cache": true,
+        "**/.archive": true
+    }
+}

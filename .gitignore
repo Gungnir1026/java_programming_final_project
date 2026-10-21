@@ -1,0 +1,29 @@
+# Generated builds and local dependencies
+/target/
+/bin/
+/out/
+/.build-cache/
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+
+# Local backup and player progress
+/.archive/
+/save.txt
+/save.properties
+/progress-*.tmp
+
+# Operating systems and IDEs
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Credentials
+.env
+.env.*
+!.env.example
